@@ -1,0 +1,64 @@
+2016-09-28 21:52:59,423 INFO  [Log] New driver instantiated 
+2016-09-28 21:53:00,505 INFO  [Log] My Account link element found 
+2016-09-28 21:53:00,527 INFO  [Log] Click action performed on My Account link 
+2016-09-28 21:53:03,942 INFO  [Log] Username text box found 
+2016-09-28 21:53:04,008 INFO  [Log] Password text box found 
+2016-09-28 21:53:05,086 INFO  [Log] Submit button found 
+2016-09-28 21:53:05,755 INFO  [Log] Login Successfully performed 
+2016-09-28 21:53:06,391 INFO  [Log] My Account name element found 
+2016-09-28 21:53:06,429 INFO  [Log] Account name identification performed 
+2016-09-28 21:53:06,470 INFO  [Log] My Account name element found 
+2016-09-28 21:53:06,511 INFO  [Log] My Account name element found 
+2016-09-28 21:53:06,549 INFO  [Log] Logout img clicked 
+2016-09-28 21:53:07,550 INFO  [Log] Logout Successfully performed 
+2016-09-28 21:53:07,560 INFO  [Log] Browser closed 
+2016-09-28 22:03:10,922 INFO  [Log] New driver instantiated 
+2016-09-28 22:03:12,255 INFO  [Log] My Account link element found 
+2016-09-28 22:03:12,284 INFO  [Log] Click action performed on My Account link 
+2016-09-28 22:03:13,640 INFO  [Log] Username text box found 
+2016-09-28 22:03:13,735 INFO  [Log] Password text box found 
+2016-09-28 22:03:13,770 INFO  [Log] Submit button found 
+2016-09-28 22:03:23,976 INFO  [Log] Browser closed 
+2016-09-28 22:07:27,534 INFO  [Log] New driver instantiated 
+2016-09-28 22:07:28,764 INFO  [Log] My Account link element found 
+2016-09-28 22:07:28,791 INFO  [Log] Click action performed on My Account link 
+2016-09-28 22:07:30,241 INFO  [Log] Username text box found 
+2016-09-28 22:07:30,318 INFO  [Log] Password text box found 
+2016-09-28 22:07:30,368 INFO  [Log] Submit button found 
+2016-09-28 22:07:30,370 INFO  [Log] Login Successfully performed 
+2016-09-28 22:07:40,508 INFO  [Log] Browser closed 
+2016-09-28 22:08:46,672 INFO  [Log] New driver instantiated 
+2016-09-28 22:08:47,721 INFO  [Log] My Account link element found 
+2016-09-28 22:08:47,757 INFO  [Log] Click action performed on My Account link 
+2016-09-28 22:08:48,216 INFO  [Log] Username text box found 
+2016-09-28 22:08:48,329 INFO  [Log] Password text box found 
+2016-09-28 22:08:48,357 INFO  [Log] Submit button found 
+2016-09-28 22:08:58,475 INFO  [Log] Browser closed 
+2016-09-28 22:31:47,581 INFO  [Log] New driver instantiated 
+2016-09-28 22:31:50,218 INFO  [Log] My Account link element found 
+2016-09-28 22:31:50,242 INFO  [Log] Click action performed on My Account link 
+2016-09-28 22:31:50,660 INFO  [Log] Username text box found 
+2016-09-28 22:31:50,702 INFO  [Log] Password text box found 
+2016-09-28 22:31:50,736 INFO  [Log] Submit button found 
+2016-09-28 22:32:00,825 INFO  [Log] Browser closed 
+2016-09-28 22:32:40,856 INFO  [Log] New driver instantiated 
+2016-09-28 22:32:42,297 INFO  [Log] My Account link element found 
+2016-09-28 22:32:42,340 INFO  [Log] Click action performed on My Account link 
+2016-09-28 22:32:43,600 INFO  [Log] Username text box found 
+2016-09-28 22:32:43,766 INFO  [Log] Password text box found 
+2016-09-28 22:32:43,824 INFO  [Log] Submit button found 
+2016-09-28 22:32:43,826 INFO  [Log] Login Successfully performed 
+2016-09-28 22:32:53,988 INFO  [Log] Browser closed 
+2016-10-03 16:17:30,564 INFO  [Log] New driver instantiated 
+2016-10-03 16:17:31,348 INFO  [Log] My Account link element found 
+2016-10-03 16:17:31,382 INFO  [Log] Click action performed on My Account link 
+2016-10-03 16:17:32,917 INFO  [Log] Username text box found 
+2016-10-03 16:17:32,959 INFO  [Log] Password text box found 
+2016-10-03 16:17:34,021 INFO  [Log] Submit button found 
+2016-10-03 16:17:34,785 INFO  [Log] Login Successfully performed 
+2016-10-03 16:17:35,109 INFO  [Log] My Account name element found 
+2016-10-03 16:17:35,148 INFO  [Log] Account name identification performed 
+2016-10-03 16:17:36,193 INFO  [Log] My Account name element found 
+2016-10-03 16:17:36,283 INFO  [Log] Logout img clicked 
+2016-10-03 16:17:36,284 INFO  [Log] Logout Successfully performed 
+2016-10-03 16:17:36,294 INFO  [Log] Browser closed 
